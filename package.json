@@ -9,7 +9,17 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.6.7",
     "@types/node": "^18",
     "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.13",
+    "@heroicons/vue": "^2.0.17",
+    "class-variance-authority": "^0.6.0",
+    "clsx": "^1.2.1",
+    "lucide-vue-next": "^0.188.0",
+    "tailwind-merge": "^1.12.0",
+    "tailwindcss-animate": "^1.0.5"
   }
 }
